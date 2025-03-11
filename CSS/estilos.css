@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(17, 74, 74);
+}
+#fondo{
+    background-color: yellowgreen;
+}
+
+input{
+    border-radius: 15px;
+}
+
+button{ 
+    border-radius: 15px;
+}
