@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(17, 74, 74);
+    background-color: rgb(15, 92, 92);
 }
 #fondo{
-    background-color: yellowgreen;
+    background-color: rgb(10, 128, 118);
 }
 
 input{
@@ -16,3 +16,9 @@ button{
 #fond{ 
     background-color: rgb(99, 133, 113);
 }
+
+#fondo1{
+    background-color: rgba(177, 188, 190, 0.541);
+}
+
+
