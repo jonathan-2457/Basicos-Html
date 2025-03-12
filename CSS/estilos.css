@@ -12,3 +12,7 @@ input{
 button{ 
     border-radius: 15px;
 }
+
+#fond{ 
+    background-color: rgb(99, 133, 113);
+}
